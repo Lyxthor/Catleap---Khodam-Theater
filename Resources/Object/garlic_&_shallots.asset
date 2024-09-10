@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a87d1022c7c76e34db5a468a2744d67a, type: 3}
+  m_Name: garlic_&_shallots
+  m_EditorClassIdentifier: 
+  auraPrize: 10000
+  videoClip: {fileID: 32900000, guid: f2c738c867c599c4787cc45f31ec613e, type: 3}
+  timeLanePair:
+  - time: 0.5
+    lane: 1
+  - time: 1.25
+    lane: 3
+  - time: 2
+    lane: 2
+  - time: 4
+    lane: 3
+  - time: 1.25
+    lane: 3
+  - time: 1
+    lane: 0
+  - time: 6
+    lane: 0
+  - time: 7
+    lane: 1
+  - time: 3
+    lane: 2
+  - time: 4
+    lane: 2
